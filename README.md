@@ -2,7 +2,7 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=blazeeditz&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=100&order=3" height="250" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blazeeditz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=blueberry&hide_border=true&order=2&custom_title=Languages%20Used!" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=trinib&theme=monokai&column=8&row=1&margin-w=25&margin-h=30&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=trinib&theme=monokai&column=4&row=2&margin-w=25&margin-h=30&no-bg=true&no-frame=true&order=4" height="500" alt="trophy graph"  />
 </div>
 
 ###
